@@ -20,4 +20,5 @@ class Doctor
       appointment.patient
     end
   end
+  doogie = Doctor.new("Doogie Howser")
 end
