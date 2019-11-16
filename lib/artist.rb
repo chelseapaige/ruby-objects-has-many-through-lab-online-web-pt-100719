@@ -20,4 +20,5 @@ class Artist
       song.genre
     end
   end
+  madonna = Artist.new("Madonna")
 end
