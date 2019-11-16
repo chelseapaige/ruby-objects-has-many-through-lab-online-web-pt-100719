@@ -20,4 +20,5 @@ class Genre
       song.artist
     end
   end
+  pop = Genre.new("pop")
 end
