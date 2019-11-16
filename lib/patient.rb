@@ -20,4 +20,5 @@ class Patient
       appointment.doctor
     end
   end
+  ferris = Patient.new("Ferris Bueller")
 end
